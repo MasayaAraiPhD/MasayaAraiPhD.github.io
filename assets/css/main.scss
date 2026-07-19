@@ -37,3 +37,11 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.page__footer {
+  position: static !important;
+  bottom: auto !important;
+  left: auto !important;
+  right: auto !important;
+  width: 100%;
+}
