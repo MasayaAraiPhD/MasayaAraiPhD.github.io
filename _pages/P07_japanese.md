@@ -30,7 +30,11 @@ Supervisor: [坂口 志文](https://www.ifrec.osaka-u.ac.jp/en/laboratory/shimon
 大阪大学 免疫学フロンティア研究センター<br>
 Supervisor: [坂口 志文](https://www.ifrec.osaka-u.ac.jp/en/laboratory/shimon_sakaguchi/)
 
-2020年4月 - 2023年3月: 日本学術振興会特別研究員(DC1)/博士課程(2019年4月-)<br>
+2023年3月: 博士課程単位取得退学<br>
+大阪大学 医学系研究科 医学専攻<br>
+Supervisor: [坂口 志文](https://www.ifrec.osaka-u.ac.jp/en/laboratory/shimon_sakaguchi/)
+
+2020年4月 - 2023年3月: 日本学術振興会特別研究員(DC1)/博士課程(2019年4月 - 2023年3月)<br>
 大阪大学 免疫学フロンティア研究センター<br>
 Supervisor: [坂口 志文](https://www.ifrec.osaka-u.ac.jp/en/laboratory/shimon_sakaguchi/)
 
