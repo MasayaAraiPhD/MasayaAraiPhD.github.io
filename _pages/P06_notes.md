@@ -9,7 +9,7 @@ classes: wide
 * [Blog](blog) <br>
 アカデミックライフ以外にも日々のことなど。
 
-* [Journal Club](journal) <br>
+* [Journal Club](jc) <br>
 古今東西の知見についての私見。
 
 * [Music](music) <br>
