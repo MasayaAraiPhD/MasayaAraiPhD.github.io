@@ -14,6 +14,10 @@ classes: wide
 
 <sup>#</sup>Equal contribution <sup>*</sup>Corresponding Author
 
+1. Long J, Huang J, **Arai M**, Nakamura Y, Mikami N, Ichiyama K<sup>*</sup>, Sakaguchi S<sup>*</sup>. <br>
+[Autoimmunity induced by epigenome alteration affecting thymic Treg cell development.](https://pubmed.ncbi.nlm.nih.gov/42873787/) <br>
+ _**Proc Natl Acad Sci U S A.**_ 2026 Oct 20;123(42):e2626262123. doi: 10.1073/pnas.2626262123. Epub 2026 Oct 14. PMID: 42873787.
+
 1. Mikami N, Kawakami R, Sugimoto A, **Arai M**, Sakaguchi S<sup>*</sup>. <br>
 [Generating functionally stable and antigen-specific Treg cells from effector T cells for cell therapy of inflammatory diseases.](https://pubmed.ncbi.nlm.nih.gov/41124283/) <br>
 _**Sci Transl Med.**_ 2025 Oct 22;17(821):eadr6049. doi: 10.1126/scitranslmed.adr6049. Epub 2025 Oct 22. PMID: 41124283.
